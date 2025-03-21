@@ -86,7 +86,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.sunnyspot"
+    namespace "com.flori.sunnyspot"
     defaultConfig {
         applicationId 'com.flori.sunnyspot'
         minSdkVersion rootProject.ext.minSdkVersion
